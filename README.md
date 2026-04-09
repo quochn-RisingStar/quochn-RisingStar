@@ -58,8 +58,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quochn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D96F2&icon_color=0D96F2&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quochn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D96F2&text_color=C9D1D9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quochn&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quochn&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quochn&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quochn&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quochn&theme=tokyonight&utcOffset=7" />
 
 </div>
 
@@ -68,16 +73,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quochn&theme=tokyonight&hide_border=true&background=0D1117&ring=0D96F2&fire=FF6B35&currStreakLabel=0D96F2" />
 
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quochn/Quochn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quochn/Quochn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Quochn/Quochn/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
