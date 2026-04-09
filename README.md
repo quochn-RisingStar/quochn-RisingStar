@@ -54,6 +54,21 @@
 
 ---
 
+### 📲 Published iOS Apps
+
+<div align="center">
+
+| App | Description | Category | Download |
+|-----|-------------|----------|----------|
+| **📐 GeoMeasure** | GPS & AR Ruler — Calculate GPS Area & 3D Volume | `Utilities` | [![App Store](https://img.shields.io/badge/App_Store-0D96F2?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/geomeasure-gps-ar-ruler/id6760251593) |
+| **📝 Ultra Note Pro** | Notes, Tasks & Schedule — All-in-one productivity | `Productivity` | [![App Store](https://img.shields.io/badge/App_Store-0D96F2?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/ultra-note-pro/id6761620486) |
+| **✈️ Travel Mate** | Trip Maker — Plan your perfect travel | `Photo & Video` | [![App Store](https://img.shields.io/badge/App_Store-0D96F2?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/travel-mate-trip-maker/id6761189935) |
+| **💡 Neon LED Pro** | RGB LED Board & Marquee — Stunning LED displays | `Lifestyle` | [![App Store](https://img.shields.io/badge/App_Store-0D96F2?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/neon-led-pro/id6761304948) |
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
