@@ -44,11 +44,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**flutter_clean_riverpod**](https://github.com/Quochn/flutter_clean_riverpod) | 🧱 Flutter Clean Architecture with Riverpod | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**FlutterGetX**](https://github.com/Quochn/FlutterGetX) | ⚡ Flutter with GetX state management | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**getx_clean_architecture**](https://github.com/Quochn/getx_clean_architecture) | 🏗️ Flutter GetX Clean Architecture | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**swiftui-image-viewer**](https://github.com/Quochn/swiftui-image-viewer) | 🖼️ Fullscreen image viewer with pinch-zooming | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| [**RichEditorView**](https://github.com/Quochn/RichEditorView) | ✏️ Rich Text Editor UIView subclass | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| [**flutter_clean_riverpod**](https://github.com/quochn-RisingStar/flutter_clean_riverpod) | 🧱 Flutter Clean Architecture with Riverpod | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**FlutterGetX**](https://github.com/quochn-RisingStar/FlutterGetX) | ⚡ Flutter with GetX state management | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**getx_clean_architecture**](https://github.com/quochn-RisingStar/getx_clean_architecture) | 🏗️ Flutter GetX Clean Architecture | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**swiftui-image-viewer**](https://github.com/quochn-RisingStar/swiftui-image-viewer) | 🖼️ Fullscreen image viewer with pinch-zooming | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| [**RichEditorView**](https://github.com/quochn-RisingStar/RichEditorView) | ✏️ Rich Text Editor UIView subclass | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
 
 </div>
 
@@ -73,19 +73,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quochn&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quochn-RisingStar&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quochn&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quochn&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quochn-RisingStar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quochn-RisingStar&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quochn&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quochn&theme=tokyonight&utcOffset=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quochn-RisingStar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quochn-RisingStar&theme=tokyonight&utcOffset=7" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quochn&theme=tokyonight&hide_border=true&background=0D1117&ring=0D96F2&fire=FF6B35&currStreakLabel=0D96F2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quochn-RisingStar&theme=tokyonight&hide_border=true&background=0D1117&ring=0D96F2&fire=FF6B35&currStreakLabel=0D96F2" />
 
 </div>
 
@@ -95,13 +95,13 @@
 
 ### 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Quochn-181717?style=for-the-badge&logo=github)](https://github.com/Quochn)
+[![GitHub](https://img.shields.io/badge/GitHub-quochn--RisingStar-181717?style=for-the-badge&logo=github)](https://github.com/quochn-RisingStar)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Quochn&color=0D96F2&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=quochn-RisingStar&color=0D96F2&style=for-the-badge&label=PROFILE+VIEWS" />
 
 ---
 
